@@ -1,0 +1,10 @@
+Road Map de implementações
+
+1 - Implementar tratamento de exceções
+2 - Implementar uso do MongoDB para gestão de massa também via DB
+3 - Implementar módulos para alocar métodos de uso comum
+      Ex.: get_conteudo_pagina
+4 - Implementar testes crossbrowser para os demais browsers (somente o Chrome rodando com sucesso no momento)
+5 - Implementar screens page e alocar o mapeamento dos elementos web, retirar da page objects
+6 - Implementar validação olhando diretamente o conteúdo do elemento web não o body page
+7 - Implementar validação com tratamento de exceção para avaliar se a ação foi executada com sucesso, implementar screenshot junto em caso de falha
