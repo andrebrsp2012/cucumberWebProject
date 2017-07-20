@@ -1,6 +1,6 @@
 ## Getting Started ##
 
-### Instalamdo o rbenv ###
+### Instalando o rbenv ###
 Para instalar o rbenv execute a linha de comando:
 
   brew install rbenv
